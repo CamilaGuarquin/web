@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(250, 178, 246);
+    margin: 0;
+    font-family: Impact, Haettenschweiler, Arial, sans-serif;
+}
+.class{
+max-width: 90%;
+width: 600px;
+margin: 0 auto;
+padding: 20px;
+text-align: center;
+}
+img{
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
